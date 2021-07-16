@@ -31,7 +31,7 @@ Atividades realizadas ao londgo dos antigos cursos da rocketseat
 -   [ ] ES6
 <br />
 
-<h2>Todos exeto o curo de React Native estão completos, quem quiser usar e clonar o repositorio para pesquisa ou estudo fique a vontade :)</h2>
+<h2 align="center">Todos exeto o curo de React Native estão completos, quem quiser usar e clonar o repositorio para pesquisa ou estudo fique a vontade :)</h2>
 
 <br />
 
